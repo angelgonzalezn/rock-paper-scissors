@@ -1,20 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
-
-* {
-    font-family: 'Inconsolata', monospace;
-    margin: 0;
-    padding: 0;
-}
-
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    background-color: #272C35;
-}
-
-p {
-    font-size: 1.25rem;
-    color: #EFEAE0;
+body, button {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
